@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a BCA (Bachelor of computer application ) student at SRM University.<br>I'm a front-end developer .<br>I have a good command of languages such as C, C++, Java, HTML5, CSS, JvaScript, etc.<br>Recently i have participated in many hackathons and around Delhi and Delhi NCR and also i have Co-organized an offline hackathon at my college 
+I'm a BCA (Bachelor of computer application ) student at SRM University.<br>I'm a front-end developer .<br>I have a good command of languages such as C, C++, Java, HTML5, CSS, JavaScript, etc.<br>Recently I have participated in many hackathons and around Delhi and Delhi NCR and also I have Co-organized an offline hackathon at my college 
 
 
 ## 🌐 Socials:
