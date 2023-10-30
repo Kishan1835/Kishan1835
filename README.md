@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a BCA final-year student at SRM University<br>
-🔭 I’m currently working on my React Skills<br>👯 I’m looking to collaborate on frontend development<br>🌱 I’m also learning Bash scripting<br>💬 Ask me about Frontend, Networking, Linux and cloud DevOps<br>⚡ Fun fact - Not an Engineer
+🔭 I’m currently working on my React Skills <br>👯 I’m looking to collaborate on frontend development<br>🌱 I’m also learning Bash scripting<br>💬 Ask me about Frontend, Networking, Linux and cloud DevOps<br>⚡ Fun fact - Not an Engineer
 
 
 ## 🌐 Socials:
